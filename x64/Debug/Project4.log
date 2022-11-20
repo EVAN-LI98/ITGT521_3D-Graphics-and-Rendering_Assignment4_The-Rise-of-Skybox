@@ -1,0 +1,24 @@
+﻿  plane3_base_a.cpp
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(84,55): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(89,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(90,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(91,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(92,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(93,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(94,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+E:\玛希隆课程\ITGT521\Assignment4\plane3_base_a.cpp(95,56): warning C4305: “初始化”: 从“double”到“const GLfloat”截断
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，函数 "void __cdecl KeyboardFunc(unsigned char,int,int)" (?KeyboardFunc@@YAXEHH@Z) 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，函数 "void __cdecl DisplayFunc(void)" (?DisplayFunc@@YAXXZ) 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutReshapeFunc，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，函数 main 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp_glutGetModifiers，函数 "void __cdecl MouseFunc(int,int,int,int)" (?MouseFunc@@YAXHHHH@Z) 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，函数 glutInit_ATEXIT_HACK 中引用了该符号
+plane3_base_a.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，函数 glutCreateWindow_ATEXIT_HACK 中引用了该符号
+G:\3D\Lib\Freeglut\lib\freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+E:\玛希隆课程\ITGT521\Assignment4\Project4\x64\Debug\Project4.exe : fatal error LNK1120: 13 个无法解析的外部命令
