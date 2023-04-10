@@ -67,3 +67,6 @@ Keyboard inputs for plane and propeller (subpart):
  
       Hold right button and drag = controls distance                
       按住鼠标右键控制相机的缩放距离            
+
+ ===========================================  Preview  ===========================================
+ ![Image text](https://raw.githubusercontent.com/EVAN-LI98/ITGT521_3D-Graphics-and-Rendering_Assignment4_The-Rise-of-Skybox/main/Screenshot/Assignment4_8_ScreenShot.png)
